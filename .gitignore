@@ -1,0 +1,12 @@
+__pycache__/
+.scout_cache/
+
+# Musiques extraites du jeu et médias : jamais publiés
+music_*/
+*.mp3
+*.mp4
+*.wav
+*.png
+
+# Extraction de fichiers du client de jeu : usage perso uniquement
+casc_music_extract.py
